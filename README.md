@@ -1,6 +1,6 @@
-# Getting Started Kharidi app
+# Getting Started with Kharidi app
 First install node module 
-npm i / npm install
+## npm i / npm install
 
 ## Available Scripts
 
@@ -11,7 +11,13 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+## Snapshots 
 ![home](https://github.com/MReact7869/e-commerce/assets/106867298/4b981481-89e2-4e0b-900b-0f9f0a693d87)
+![detail section](https://github.com/MReact7869/e-commerce/assets/106867298/64c6f01f-8262-4d36-924f-7e6c42ee784e)
+![cart section](https://github.com/MReact7869/e-commerce/assets/106867298/53bb14ec-22ce-46bd-8ffa-74a1a2ab8a3b)
+![signup](https://github.com/MReact7869/e-commerce/assets/106867298/9fa4f99e-ccee-47d7-86fa-7f01dbd4fe43)
+![kid section](https://github.com/MReact7869/e-commerce/assets/106867298/2eadcb43-a044-48ea-8621-2ca36483862c)
 
 
 The page will reload when you make changes.\
